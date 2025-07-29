@@ -1,0 +1,14 @@
+{
+    "bot_token": "PASTE_BOT_TOKEN",
+    "servers": [
+        {
+            "name": "Server 1 Name",
+            "id": "Server 1 ID"
+        },
+        {
+            "name": "Server 2 Name",
+            "id": "Server 2 ID"
+        }
+    ],
+    "menu_color": "#0099ff"
+}
