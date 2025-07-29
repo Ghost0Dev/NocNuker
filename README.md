@@ -1,0 +1,2 @@
+# NocNuker
+Discord Server Nuker
